@@ -1,6 +1,7 @@
 import igeo.IG;
-import igeo.IPoint;
 import processing.core.PApplet;
+//import igeo.IPoint;
+import igeo.*;
 
 
 public class DriverClass extends PApplet {
@@ -34,7 +35,7 @@ public class DriverClass extends PApplet {
     public void draw(){
 //        System.out.println("in draw");
 
-        // ellipse(mouseX,mouseY,second()*2,second()*2);
+//         ellipse(mouseX,mouseY,second()*2,second()*2);
     }
 
 }
